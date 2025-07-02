@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ENG1",
+    "name": "Premier League",
+    "country": "England",
+    "tier": 1,
+    "clubs": [1],
+    "promotionSpots": 0,
+    "relegationSpots": 3
+  },
+  {
+    "id": "BRA1",
+    "name": "Brasileirão Série A",
+    "country": "Brazil",
+    "tier": 1,
+    "clubs": [2],
+    "promotionSpots": 0,
+    "relegationSpots": 4
+  },
+  {
+    "id": "FRA2",
+    "name": "Ligue 2",
+    "country": "France",
+    "tier": 2,
+    "clubs": [3],
+    "promotionSpots": 2,
+    "relegationSpots": 2
+  },
+  {
+    "id": "JPN1",
+    "name": "J1 League",
+    "country": "Japan",
+    "tier": 1,
+    "clubs": [4],
+    "promotionSpots": 0,
+    "relegationSpots": 2
+  }
+]

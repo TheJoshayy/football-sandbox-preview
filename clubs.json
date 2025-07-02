@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Manchester United",
+    "country": "England",
+    "division": "Premier League",
+    "reputation": 92,
+    "finances": 85,
+    "youthFocus": 70
+  },
+  {
+    "id": 2,
+    "name": "São Paulo FC",
+    "country": "Brazil",
+    "division": "Brasileirão Série A",
+    "reputation": 80,
+    "finances": 70,
+    "youthFocus": 88
+  },
+  {
+    "id": 3,
+    "name": "Paris FC",
+    "country": "France",
+    "division": "Ligue 2",
+    "reputation": 65,
+    "finances": 60,
+    "youthFocus": 72
+  },
+  {
+    "id": 4,
+    "name": "Gamba Osaka",
+    "country": "Japan",
+    "division": "J1 League",
+    "reputation": 78,
+    "finances": 68,
+    "youthFocus": 82
+  }
+]

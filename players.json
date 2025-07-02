@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "name": "Marcus Greenwood",
+    "clubId": 1,
+    "position": "Forward",
+    "age": 21,
+    "nationality": "England",
+    "ca": 130,
+    "pa": 165
+  },
+  {
+    "id": 102,
+    "name": "Luiz Fernando",
+    "clubId": 2,
+    "position": "Midfielder",
+    "age": 18,
+    "nationality": "Brazil",
+    "ca": 105,
+    "pa": 172
+  },
+  {
+    "id": 103,
+    "name": "Julien Lefèvre",
+    "clubId": 3,
+    "position": "Goalkeeper",
+    "age": 23,
+    "nationality": "France",
+    "ca": 115,
+    "pa": 135
+  },
+  {
+    "id": 104,
+    "name": "Takashi Mori",
+    "clubId": 4,
+    "position": "Defender",
+    "age": 20,
+    "nationality": "Japan",
+    "ca": 110,
+    "pa": 160
+  }
+]
